@@ -1,0 +1,267 @@
+[
+    {
+        "name": "Daytona Beach",
+        "coordinates": [29.210815, -81.022833]
+    },
+    {
+        "name": "Palm Beach",
+        "coordinates": [26.705621, -80.036430]
+    },
+    {
+        "name": "Miami Beach",
+        "coordinates": [25.790654, -80.1300455]
+    },
+    {
+        "name": "Clearwater Beach",
+        "coordinates": [27.965853, -82.800103]
+    },
+    {
+        "name": "Key West",
+        "coordinates": [24.555059, -81.779987]
+    },
+    {
+        "name": "Siesta Key Beach",
+        "coordinates": [27.266972, -82.546344]
+    },
+    {
+        "name": "Fort Lauderdale Beach",
+        "coordinates": [26.118347, -80.104279]
+    },
+    {
+        "name": "Pensacola Beach",
+        "coordinates": [30.333466, -87.136974]
+    },
+    {
+        "name": "Naples Beach",
+        "coordinates": [26.131727, -81.804578]
+    },
+    {
+        "name": "St. Augustine Beach",
+        "coordinates": [29.857072, -81.277039]
+    },
+    {
+        "name": "Panama City Beach",
+        "coordinates": [30.176591, -85.805488]
+    },
+    {
+        "name": "Jacksonville Beach",
+        "coordinates": [30.294681, -81.393139]
+    },
+    {
+        "name": "Sanibel Island",
+        "coordinates": [26.448970, -82.022314]
+    },
+    {
+        "name": "Fort Myers Beach",
+        "coordinates": [26.452025, -81.948145]
+    },
+    {
+        "name": "Cocoa Beach",
+        "coordinates": [28.320007, -80.607551]
+    },
+    {
+        "name": "Vero Beach",
+        "coordinates": [27.638643, -80.397274]
+    },
+    {
+        "name": "New Smyrna Beach",
+        "coordinates": [29.025819, -80.926998]
+    },
+    {
+        "name": "Delray Beach",
+        "coordinates": [26.461463, -80.072820]
+    },
+    {
+        "name": "Pompano Beach",
+        "coordinates": [26.237860, -80.124767]
+    },
+    {
+        "name": "Hollywood Beach",
+        "coordinates": [26.011201, -80.149490]
+    },
+    {
+        "name": "Amelia Island",
+        "coordinates": [30.669682, -81.462592]
+    },
+    {
+        "name": "Anna Maria Island",
+        "coordinates": [27.513573, -82.719545]
+    },
+    {
+        "name": "Deerfield Beach",
+        "coordinates": [26.318412, -80.099766]
+    },
+    {
+        "name": "Captiva Island",
+        "coordinates": [26.527578, -82.194817]
+    },
+    {
+        "name": "Fernandina Beach",
+        "coordinates": [30.669456, -81.460380]
+    },
+    {
+        "name": "Boca Raton",
+        "coordinates": [26.368306, -80.128932]
+    },
+    {
+        "name": "Destin",
+        "coordinates": [30.393534, -86.495783]
+    },
+    {
+        "name": "Fort Walton Beach",
+        "coordinates": [30.405755, -86.618842]
+    },
+    {
+        "name": "Navarre Beach",
+        "coordinates": [30.381300, -86.863220]
+    },
+    {
+        "name": "Miramar Beach",
+        "coordinates": [30.378230, -86.358610]
+    },
+    {
+        "name": "Seaside",
+        "coordinates": [30.310532, -86.138650]
+    },
+    {
+        "name": "Rosemary Beach",
+        "coordinates": [30.280057, -86.015212]
+    },
+    {
+        "name": "Grayton Beach",
+        "coordinates": [30.334073, -86.165505]
+    },
+    {
+        "name": "Mexico Beach",
+        "coordinates": [29.947414, -85.418857]
+    },
+    {
+        "name": "Apalachicola",
+        "coordinates": [29.725763, -84.983245]
+    },
+    {
+        "name": "St. George Island",
+        "coordinates": [29.658489, -84.880244]
+    },
+    {
+        "name": "Cape San Blas",
+        "coordinates": [29.676944, -85.357500]
+    },
+    {
+        "name": "Perdido Key",
+        "coordinates": [30.309465, -87.435763]
+    },
+
+    {
+        "name": "Cedar Key",
+        "coordinates": [29.138320, -83.035134]
+    },
+    {
+        "name": "Crystal River",
+        "coordinates": [28.902479, -82.592601]
+    },
+    {
+        "name": "Yankeetown",
+        "coordinates": [29.030959, -82.719547]
+    },
+    {
+        "name": "Horseshoe Beach",
+        "coordinates": [29.441612, -83.287653]
+    },
+    {
+        "name": "Steinhatchee",
+        "coordinates": [29.671008, -83.387321]
+    },
+    {
+        "name": "Keaton Beach",
+        "coordinates": [29.811205, -83.594673]
+    },
+    {
+        "name": "Dekle Beach",
+        "coordinates": [29.900815, -83.647833]
+    },
+    {
+        "name": "Suwannee",
+        "coordinates": [29.329628, -83.138580]
+    },
+    {
+        "name": "St. Petersburg",
+        "coordinates": [27.767601, -82.640291]
+    },
+    {
+        "name": "Marco Island",
+        "coordinates": [25.938741, -81.707536]
+    },
+    {
+        "name": "Islamorada",
+        "coordinates": [24.924294, -80.627836]
+    },
+    {
+        "name": "Marathon",
+        "coordinates": [24.726031, -81.044433]
+    },
+    {
+        "name": "Fort Myers",
+        "coordinates": [26.640628, -81.872308]
+    },
+    {
+        "name": "Sarasota",
+        "coordinates": [27.336435, -82.530653]
+    },
+    {
+        "name": "Venice",
+        "coordinates": [27.099777, -82.454263]
+    },
+    {
+        "name": "Bonita Springs",
+        "coordinates": [26.339806, -81.778697]
+    },
+    {
+        "name": "Tarpon Springs",
+        "coordinates": [28.146125, -82.756768]
+    },
+    {
+        "name": "Fernandina Beach",
+        "coordinates": [30.669456, -81.460380]
+    },
+    {
+        "name": "Vilano Beach",
+        "coordinates": [29.923546, -81.277214]
+    },
+    {
+        "name": "Ponte Vedra Beach",
+        "coordinates": [30.240006, -81.385260]
+    },
+    {
+        "name": "Atlantic Beach",
+        "coordinates": [30.334408, -81.398697]
+    },
+    {
+        "name": "Neptune Beach",
+        "coordinates": [30.311908, -81.396473]
+    },
+    {
+        "name": "Flagler Beach",
+        "coordinates": [29.474923, -81.125233]
+    },
+    {
+        "name": "Ormond Beach",
+        "coordinates": [29.285813, -81.055889]
+    },
+    {
+        "name": "Melbourne Beach",
+        "coordinates": [28.068350, -80.560330]
+    },
+    {
+        "name": "Satellite Beach",
+        "coordinates": [28.176123, -80.590052]
+    },
+    {
+        "name": "Indian Harbour Beach",
+        "coordinates": [28.148901, -80.588101]
+    },
+    {
+        "name": "Cocoa Beach",
+        "coordinates": [28.320007, -80.607551]
+    }
+]
